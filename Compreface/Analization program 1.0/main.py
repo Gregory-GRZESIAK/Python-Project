@@ -11,7 +11,7 @@ from compreface.collections.face_collections import Subjects
 
 DOMAIN: str = 'http://localhost'
 PORT: str = '8000'
-API_KEY: str = '67fd5b97-afbf-48f3-9e0a-c4e32aebff67'
+API_KEY: str = 'XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX'
 
 # Initialization
 compre_face: CompreFace = CompreFace(DOMAIN, PORT)
